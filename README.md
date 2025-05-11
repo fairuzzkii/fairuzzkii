@@ -1,8 +1,7 @@
 # Hi, I’m Muhammad Fairuz Zaki 👋
 
 🎓 Information Technology Student at Jember University  
-💻 I enjoy building things with code and exploring web development  
-🌱 Currently growing my skills in PHP, Laravel, HTML/CSS, and more  
+🌱 Currently growing my coding skills 
 🧃 *"ijonya masih sepi"* – but not for long, stay tuned!
 
 ---
