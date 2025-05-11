@@ -2,7 +2,6 @@
 
 🎓 Information Technology Student at Jember University  
 🌱 Currently growing my coding skills 
-
 🧃 *"ijonya masih sepi"* – but not for long, stay tuned!
 
 ---
