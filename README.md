@@ -1,7 +1,7 @@
 # Hi, I’m Muhammad Fairuz Zaki 👋
 
 🎓 Information Technology Student at Jember University  
-🌱 Currently growing my coding skills 
+🌱 Currently growing my coding skills                   
 🧃 *"ijonya masih sepi"* – but not for long, stay tuned!
 
 ---
