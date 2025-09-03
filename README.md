@@ -33,4 +33,4 @@
 
 ---
 
-> 🎯 Let’s build something cool together!
+> 🎯 Still learn to build!
