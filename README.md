@@ -46,7 +46,7 @@
 
 ---
 
-<!--## 📊 GitHub Stats :
+<! 📊 GitHub Stats :
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=fairuzzkii&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
