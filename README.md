@@ -53,6 +53,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzzkii&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
----  -->
 
 > 🎯 Still learn to build!
