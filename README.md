@@ -46,12 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats :
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=fairuzzkii&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzzkii&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
 
 
 > 🎯 Still learn to build!
