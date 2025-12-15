@@ -2,7 +2,7 @@
 
 🎓 Information Technology Student at Jember University  
 🌱 Currently growing my coding skills                   
-🧃 slow motion better than no motion.
+slow motion better than no motion.
 
 ---
 
