@@ -4,7 +4,7 @@
 </div>
 
 <!-- ========== TECH STACK ========== -->
-## 💻 Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -45,7 +45,7 @@
 </p>
 
 ---
-📊 GitHub Stats
+GitHub Stats
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=fairuzzkii&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </div>
@@ -55,7 +55,6 @@
 </div>
 
 <!-- ========== ACTIVITY GRAPH ========== -->
-## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fairuzzkii&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Fairuz's%20Contribution%20Graph" alt="Activity Graph"/>
