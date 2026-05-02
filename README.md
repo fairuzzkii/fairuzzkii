@@ -2,7 +2,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6C63FF&height=220&section=header&text=Muhammad%20Fairuz%20Zaki&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Web%20Developer%20%7C%20Mobile%20Developer&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 </div>
+
 ---
+
 <!-- ========== TECH STACK ========== -->
 ## 💻 Tech Stack
 <p>
