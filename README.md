@@ -6,26 +6,6 @@
 <!-- ========== ABOUT ME ========== -->
 <img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## 🧑‍💻 About Me
-
-Active Information Technology student with a strong passion for **Software Development**, specializing in **Mobile App & Web Development**. Experienced in UI/UX and graphic design. Actively involved in student organizations and laboratory activities.
-
-- 📫 **Reach me**: fairuzzaki474@gmail.com
-- 🌐 **Portfolio**: [fairuzzaki.vercel.app](https://fairuzzaki.vercel.app)
-
-<br clear="right"/>
-
----
-
-<!-- ========== HARD SKILLS ========== -->
-## 🧠 Hard Skills
-
-• Software Development &nbsp; • Mobile App Development &nbsp; • Web Development <br/>
-• Backend Development &nbsp; • Frontend Development &nbsp; • Database Management System <br/>
-• Application Programming Interface (API) &nbsp; • UI/UX Design &nbsp; • Graphic Design
-
----
-
 <!-- ========== TECH STACK ========== -->
 ## 💻 Tech Stack
 
