@@ -47,11 +47,6 @@
 ---
 📊 GitHub Stats
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fairuzzkii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzzkii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
-</div>
-<br/>
-<div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=fairuzzkii&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </div>
 <br/>
