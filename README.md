@@ -44,8 +44,6 @@
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
 </p>
 
----
-GitHub Stats
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=fairuzzkii&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </div>
